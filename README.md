@@ -1,5 +1,6 @@
 # Ebra-Nur-Soylu
-EBRA NUR SOYLU
+EBRA NUR SOYLU  ![IMG_20250622_224917](https://github.com/user-attachments/assets/132bcc9c-2f86-4f98-ab52-9e3b5901d271)
+ 
 Adres: İstanbul, Sultangazi
 Ehliyet: Var
 Medeni Durum: Bekar
@@ -52,4 +53,3 @@ ASDEP / İl Müdür Yardımcısı Beytullah Doğan
 0533 334 8099
 İLGİ ALANLARI
 Edebiyat, buz pateni, yöresel halk oyunları, münazara, yüzme, resim.
-![IMG_20250622_224917](https://github.com/user-attachments/assets/132bcc9c-2f86-4f98-ab52-9e3b5901d271)
