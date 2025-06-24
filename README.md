@@ -10,7 +10,8 @@
 <body>
   
   <p>Address: Sultangazi, Istanbul</p>
-  <p>Driver's License: Yes | Marital Status: Single</p>
+  <p>Driver's License: Yes<p>
+    Marital Status: Single</p>
   
   <div class="section">
     <h2>Education</h2>
