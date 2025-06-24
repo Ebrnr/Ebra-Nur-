@@ -1,11 +1,4 @@
 # Ebra-Nur-Soylu
-![IMG_20250622_224917](https://github.com/user-attachments/assets/132bcc9c-2f86-4f98-ab52-9e3b5901d271)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
 </head>
 <body>
   
